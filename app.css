@@ -1,0 +1,22 @@
+.carousel-item img {
+    height: 45vh;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+@media (min-width: 992px) {
+    #container-img {
+        width: 900px;
+    }
+}
+
+@media (max-width: 768px) {
+    #h2-display {
+        text-align: center !important;
+        /* color: red; */
+    }
+
+    #h2-display+p {
+        text-align: center !important;
+    }
+}
