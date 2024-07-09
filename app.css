@@ -13,7 +13,6 @@
 @media (max-width: 768px) {
     #h2-display {
         text-align: center !important;
-        /* color: red; */
     }
 
     #h2-display+p {
